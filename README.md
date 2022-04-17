@@ -1,2 +1,2 @@
-# year-3-acdemics
-year-3-acdemics-workspace
+# Acdemics
+Acdemic workspace for git requirements
